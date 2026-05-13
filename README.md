@@ -1,5 +1,7 @@
 # Flaky CI Forensics
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 Stop rerunning CI until somebody knows why it failed.
 
 Part of the [High Value Agent Skills](https://github.com/oceanfsdfsvfdsvs/codex-high-value-skills) collection.
