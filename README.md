@@ -2,6 +2,8 @@
 
 Stop rerunning CI until somebody knows why it failed.
 
+Part of the [High Value Agent Skills](https://github.com/oceanfsdfsvfdsvs/codex-high-value-skills) collection.
+
 `flaky-ci-forensics` helps engineering teams turn intermittent CI/test failures into a concrete triage decision. It combines a domain workflow, failure taxonomy, local parser, and report template so the result is more stable than asking a model to "debug this flaky test" from raw logs.
 
 ## What It Solves
