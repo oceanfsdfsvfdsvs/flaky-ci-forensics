@@ -4,7 +4,7 @@
 
 不要再盲目 rerun CI，先弄清楚它为什么失败。
 
-本项目是 [High Value Agent Skills](https://github.com/oceanfsdfsvfdsvs/codex-high-value-skills) 集合的一部分。
+本项目是 [实用 Agent Skills](https://github.com/oceanfsdfsvfdsvs/practical-agent-skills) 集合的一部分。
 
 `flaky-ci-forensics` 帮助工程团队把间歇性 CI/测试失败转换成可执行的 triage 决策。它结合失败分类体系、本地解析脚本、报告模板和 guardrails，比直接把日志丢给模型说“帮我 debug flaky test”更稳定。
 
